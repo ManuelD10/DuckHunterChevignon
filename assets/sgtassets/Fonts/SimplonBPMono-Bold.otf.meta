@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f1e549e9396ac4acc86b7d41ee0f0b30
+timeCreated: 1473515517
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Simplon BP Mono
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b7609b4d0a26d4a33b28f91bf806de71, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
